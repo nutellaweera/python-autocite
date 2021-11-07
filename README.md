@@ -8,6 +8,11 @@ Licensed under the MIT license. Though not required by the
 license, please consider dropping a line if you find this
 software useful.
 
+
+Diff from the [original repo](https://github.com/thenaterhood/python-autocite)
+-----------
+Updated for [UWE-Harvard referencing](https://www.uwe.ac.uk/study/study-support/study-skills/referencing/uwe-bristol-harvard#webpages) (webpage format), not perfect, stil working on it. Italics only work with supported terminals in CLI mode. Cites in uwe mode by default (original repo formats into apa).
+
 Installation
 ------------
 
