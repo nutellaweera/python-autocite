@@ -1,0 +1,3 @@
+[console_scripts]
+autocite = python_autocite.__main__:main
+
